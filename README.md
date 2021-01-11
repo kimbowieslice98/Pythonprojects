@@ -34,7 +34,11 @@
 * Python 3.8
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+> BestFlight:
+* Download the following to run the program:
+  * All of the exact libraries and drivers in the technologies section
+* Making sure the chrome browser is updated
+* In the driver variable, adding the location of the chrome driver in the computer being used
 
 ## Code Examples
 Show examples of usage:
